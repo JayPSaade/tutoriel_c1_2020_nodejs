@@ -3,5 +3,6 @@ export const Errors = {
     UnexpectedError: {
         code: 'UNEXPECTED_ERROR',
         message: 'An unexpected error has occurred.'
-    }
+    },
+    ValidationError: { code: 'VALIDATION_ERROR', message: '{{message}}' },
 };

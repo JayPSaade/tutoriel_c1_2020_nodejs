@@ -1,5 +1,5 @@
 # **tutoriel_c1_2020_nodejs**
-
+Pour plus d'information, visitez [https://sites.google.com/isae.edu.lb/node-js-comme-backend/](https://sites.google.com/isae.edu.lb/node-js-comme-backend/)
 ## Steps to run
 1. Clone the project
 2. Run `npm install` to install all dependencies
